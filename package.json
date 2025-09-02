@@ -22,5 +22,12 @@
     "eslint-plugin-prettier": "^5.2.3",
     "mocha": "^10.8.2",
     "prettier": "^3.5.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/guessing-game/issues"
   }
 }
